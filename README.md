@@ -1,3 +1,12 @@
+![Dashboard](https://cdn.discordapp.com/attachments/577514828327813146/610558822162890786/Snip20190812_3.png)
+
+![Line & Bar Chart](https://cdn.discordapp.com/attachments/577514828327813146/610558818769960995/Snip20190812_4.png)
+
+![Table w/Bulma CSS styling](https://cdn.discordapp.com/attachments/577514828327813146/610558815515049985/Snip20190812_5.png)
+
+![CSV to Table](https://cdn.discordapp.com/attachments/577514828327813146/610558803028738098/Snip20190812_6.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
